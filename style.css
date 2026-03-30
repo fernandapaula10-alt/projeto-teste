@@ -1,0 +1,52 @@
+body{
+background-color: deepskyblue;
+margin: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+background-color: deepskyblue;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+display: flex;
+}
+h1{
+color: blue;
+font-size: 30px;
+}
+input{
+width: 400px;
+height: 30px;
+}
+button{
+background-color: black;
+width: 150px;
+border-radius: 30px;
+}
+main{
+padding: 20px;
+background-color: darkblue;
+border-radius: 10px;
+}
+section{
+display: flex;
+align-items: center;
+justify-content: space-around;
+color: white;
+margin: 20px;
+width: 90vw;
+}
+p{
+width: 400px;
+}
+img{
+width: 400px;
+}
+section button{
+border-color: aqua;
+    color: black;
+    height: 100px;
+    width: 150px;
+    font-size: 30;
+}
+
