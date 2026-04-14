@@ -34,7 +34,9 @@ align-items: center;
 justify-content: space-around;
 color: white;
 margin: 20px;
-width: 90vw;
+padding: 30px;
+background-color: chartreuse;
+border-radius: 20px;
 }
 p{
 width: 400px;
@@ -43,10 +45,20 @@ img{
 width: 400px;
 }
 section button{
-border-color: aqua;
-    color: black;
+border-color: black;
+    color: aquamarine;
     height: 100px;
     width: 150px;
     font-size: 30;
+}
+footer{
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+h2{
+    color: darkorchid;
+    font-size: 30px;
 }
 
